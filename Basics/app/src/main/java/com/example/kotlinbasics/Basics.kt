@@ -32,5 +32,12 @@ fun main(){
     //Arithmetic operators
     var result = 5+8
     result /= 2
-    println(result)
+    val x = 5.0
+    var resultDouble = result /x
+    //println(resultDouble)
+
+    //Comparision operators (==, !=, <, >, <=, >=)
+
+    val isEqual = 5==3
+    print(isEqual)
 }
