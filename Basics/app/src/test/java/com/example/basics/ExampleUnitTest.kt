@@ -1,4 +1,4 @@
-package com.example.oop
+package com.example.basics
 
 import org.junit.Test
 
